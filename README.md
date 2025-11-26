@@ -14,17 +14,15 @@
   
   <br/><br/>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=adke123&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adke123&layout=compact&theme=tokyonight&langs_count=6" height="180px"/>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=adke123&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adke123&layout=compact&theme=tokyonight&langs_count=6" height="180px"/>
 
-  <br/>
+  <br/><br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adke123/adke123/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/adke123/adke123/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/adke123/adke123/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adke123/adke123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adke123/adke123/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adke123/adke123/output/github-contribution-grid-snake.svg">
   </picture>
 
 </div>
